@@ -30,7 +30,9 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=5D6FB006-F9E2-45CF-985F-B0A348A16A66
+VaultGUID=8317cad2-054d-4ebb-99de-7f6cca303963
+ReleaseVaultName=Tenant 1
 Template=C:\Users\Public\Documents\Altium\AD18\Templates\Eurocard VME 6U with break-away tab (9.187 x 8.660 inches).PrjPCB
 IncludeDesignInRelease=0
 
@@ -96,8 +98,8 @@ ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=0
-ContentTypeGUID=
-ConfigurationType=
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
 
 [OutputGroup1]
 Name=Netlist Outputs

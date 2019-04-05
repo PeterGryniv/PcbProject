@@ -30,10 +30,6 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=233AD27B-C4BD-4AC3-84BA-55D6A49FA2A1
-VaultGUID=883bf13e-bb19-4470-a747-a27edb2104ba
-ReleaseVaultName=Peter Workspace
-ItemGUID=233AD27B-C4BD-4AC3-84BA-55D6A49FA2A1
 Template=C:\Users\Public\Documents\Altium\AD18\Templates\Eurocard VME 6U with break-away tab (9.187 x 8.660 inches).PrjPCB
 IncludeDesignInRelease=0
 

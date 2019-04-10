@@ -34,6 +34,8 @@ ManagedProjectGUID=
 Template=C:\Users\Public\Documents\Altium\AD18\Templates\Eurocard VME 6U with break-away tab (9.187 x 8.660 inches).PrjPCB
 IncludeDesignInRelease=0
 
+
+
 [Preferences]
 PrefsVaultGUID=
 PrefsRevisionGUID=

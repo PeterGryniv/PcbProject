@@ -76,7 +76,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WLWTNBDF
 
 [Document3]
-DocumentPath=PCB_Project.BomDoc
+DocumentPath=PCB_Project1.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -107,7 +107,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IBLEASRH
+DocumentUniqueId=
 
 [Configuration1]
 Name=Default Configuration

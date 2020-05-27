@@ -76,7 +76,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WLWTNBDF
 
 [Document3]
-DocumentPath=PCB_Project1.BomDoc
+DocumentPath=PCB_Project.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

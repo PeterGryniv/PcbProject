@@ -29,12 +29,13 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=D5186DB5-8C63-44C5-BB68-CC4A61DF7506
-VaultGUID=47B3F4EE-4332-4310-898B-23A76A4128E8
-ReleaseVaultName=Dev2
-ItemGUID=E16E60DB-3AF0-4352-A5F5-33BD2981F52E
+ManagedProjectGUID=FFACDA03-373D-4709-A613-8138EEB7468B
+VaultGUID=0C409194-1E6F-409A-8B9B-18C55E74E7BF
+ReleaseVaultName=PeterUS
+ItemGUID=FFACDA03-373D-4709-A613-8138EEB7468B
 Template=C:\Users\Public\Documents\Altium\AD18\Templates\Eurocard VME 6U with break-away tab (9.187 x 8.660 inches).PrjPCB
 IncludeDesignInRelease=0
 
@@ -229,7 +230,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
+TargetPrinter=OneNote for Windows 10
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -975,6 +976,7 @@ AlternateItemFail=3
 Type122=2
 Type123=1
 Type124=3
+Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
